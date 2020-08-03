@@ -6,4 +6,4 @@
 - 🤔 I’m looking for help with finding a new job that helps me strength my techinal skill and have an impact on the world. 
 - 📫 How to reach me: Hitme up on h2rashwan@gmail.com or [twitter](https://www.twitter.com/h2rashwan)
 - 😄 Pronouns: https://www.nameshouts.com/names/all-languages/pronounce-hady-rashwan 
-- :sunglasses Resume: https://bit.ly/hadyResume
+- :sunglasses: Resume: https://bit.ly/hadyResume
