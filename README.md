@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning design patterns and Java. Looking to get more into low-level languages.
 - 🤔 I’m looking for help with finding a new job that helps me strengthen my technical skill and have an impact on the world.
 - 👯 I’m looking to collaborate on more open source and get involved with the community. 
-- 💪 Will write some blog posts very soon.
+- 💪 I will start writing blog posts very soon..
 - 📫 How to reach me: On h2rashwan@gmail.com or [Twitter](https://www.twitter.com/h2rashwan).
 - 😎 Resume: https://bit.ly/hadyResume.
 - 😄 Pronouns: https://www.nameshouts.com/names/all-languages/pronounce-hady-rashwan.
