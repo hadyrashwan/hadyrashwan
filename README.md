@@ -1,4 +1,3 @@
-## Who I'am
 > A Backend developer with some experience in GCP, DevOps, Serverless, Blockchain and Big Data. Took an internship at Vodafone Egypt, then worked for a year as the Back End Developer at Assess Talent Management. Finally co-founded Badgewell and exited on June 2020.
 
 - 🌱 I’m currently learning design patterns and Java. Looking to get more into low-level languages.
