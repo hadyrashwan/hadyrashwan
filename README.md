@@ -2,6 +2,6 @@
 
 - 👯 I’m looking to collaborate on more open source projects and get involved with the community. 
 - 💪 Started [blogging](https://dev.to/hadyrashwan) recently .
-- 📫 How to reach me: On h2rashwan@gmail.com or [Twitter](https://www.twitter.com/h2rashwan).
+- 📫 Reach me on: h2rashwan@gmail.com or [Twitter](https://www.twitter.com/h2rashwan).
 - 😎 Resume: https://bit.ly/hadyResume.
 - 😄 Pronouns: https://www.nameshouts.com/names/all-languages/pronounce-hady-rashwan.
