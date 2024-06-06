@@ -2,4 +2,3 @@
 
 - 👯 I’m looking to collaborate on more open source projects and get involved with the community. 
 - 📫 Reach me on: hadir@duck.com.
-- 😄 Pronouns: https://www.nameshouts.com/names/all-languages/pronounce-hady-rashwan.
