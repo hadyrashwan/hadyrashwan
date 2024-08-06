@@ -1,9 +1,9 @@
-## Hi there  <img src="https://raw.githubusercontent.com/hadyrashwan/hadyrashwan/main/media/wave.gif" width="26px" height="26px" />
+## Hi there  <img src="https://raw.githubusercontent.com/hadyrashwan/hadyrashwan/master/media/wave.gif" width="26px" height="26px" />
 
 > Hello, I'm Hadi, a seasoned professional in backend engineering with a focus on cloud computing and web tech.
 
 - 📫 Reach me on: h2rashwan@gmail.com.
-## Stats <sub><img src="https://raw.githubusercontent.com/hadyrashwan/hadyrashwan/main/media/graph.gif" width="40px" height="40px" /></sub>
+## Stats <sub><img src="https://raw.githubusercontent.com/hadyrashwan/hadyrashwan/master/media/graph.gif" width="40px" height="40px" /></sub>
 
 
 
